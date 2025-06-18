@@ -2,14 +2,14 @@
 
 # Fundamental Data Types
 
-int
-float
-bool
-str
-list
-tuple
-set
-dict
+print(int)
+print(float)
+print(bool)
+print(str)
+print(list)
+print(tuple)
+print(set)
+print(dict)
 
 # Classes => Custom types
 
@@ -17,7 +17,7 @@ dict
 
 # Special
 
-None
+print(None)
 
 # Exercises
 
