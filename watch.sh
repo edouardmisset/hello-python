@@ -1,8 +1,8 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
-find ./basics -name '*.py' | entr -nrc sh -c 'python3 "$0"' /_
+find ./basics -type f -name '*.py' | entr -nrc sh -c 'python3 "$0"' /_
 
-# 1. find ./basics -name '*.py'
+# 1. find ./basics -type f -name '*.py'
 # This finds all files ending with .py in the basics directory (recursively).
 # It outputs a list of Python file paths, one per line.
 
