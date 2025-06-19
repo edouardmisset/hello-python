@@ -1,3 +1,5 @@
+"""Hello World"""
+
 print('Hello World')
 
 name = input('Whats your name? ')

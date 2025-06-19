@@ -45,12 +45,12 @@ print(5 % 4)  # 1 (remainder)
 
 # Math function
 
-print(round(3.14, 1))
-print(abs(-3.14))
+print(round(3.14, 1))  # 3.1
+print(abs(-3.14))  # 3.14
 
 # Operator precedence
 
-print(20 - 3 * 4)
+print(20 - 3 * 4)  # 8
 
 # ()
 # **

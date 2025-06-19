@@ -11,6 +11,7 @@ print(greet.upper())  # HELLO
 print(greet.capitalize())  # Hello
 print(greet.find('l'))  # 2 ('l' is present in the string at index 2)
 print(greet.replace('l', 'r'))  # herro (replaces all the instances)
+print(greet.split(''))  #
 print(greet)  # hello as strings are immutable
 
 # 1: len() | Returns the number of items in an object (e.g., string, list,
