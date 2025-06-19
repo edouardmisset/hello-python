@@ -40,7 +40,7 @@ print(new_line)
 name: str = 'Johnny'
 age: int = 55
 
-print('Hi ' + name + '. You are ' + str(age) + 'years old')
+print('Hi ' + name + '. You are ' + str(age) + ' years old')
 print('Hi {}. You are {} years old'.format(name, age))
 print('Hi {0}. You are {1} years old'.format(name, age))
 print('Hi {n}. You are {a} years old'.format(n="Sally", a=100))
