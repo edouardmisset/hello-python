@@ -18,5 +18,10 @@
     "titleBar.inactiveBackground": "#150c9999",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#150c99"
+  "peacock.color": "#150c99",
+  "indentRainbow.indentSetter": {
+    "python": {
+      "indent": 4
+    }
+  }
 }
