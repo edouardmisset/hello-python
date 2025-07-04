@@ -23,5 +23,7 @@
     "python": {
       "indent": 4
     }
-  }
+  },
+  "editor.defaultFormatter": "ms-python.autopep8",
+  "editor.defaultFoldingRangeProvider": "ms-python.autopep8"
 }
